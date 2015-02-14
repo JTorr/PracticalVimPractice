@@ -1,0 +1,49 @@
+THE DOT COMMAND
+
+Instructions: Use the "." command to repeat the same change.
+Hints at the bottom of the page show which commands to use.
+
+1) Delete all the x's in the following text:
+
+Max X had an extra small xenops 
+Who played a xylophone. 
+For words that start with X 
+The people hit the decks! 
+Words like xenops plays xylophone for Max 
+X X X X X X X X
+
+2) Delete each line that contains the word "delete"
+
+Do not delete
+the lines that do not
+include the word delete
+but delete the lines
+that do include
+the word delete
+Once you delete
+each line
+that has the word delete
+you should have 5 lines
+none of which
+should contain the word delete.
+
+3) Indent each line until all lines are aligned:
+
+									Indent
+								Indent
+							Indent
+						Indent
+					Indent
+				Indent
+			Indent
+		Indent
+	Indent
+Indent
+
+-------------------------------------------------------------------------------
+
+HINTS
+
+1) Use x to delete the first "x", then repeat the command with "."
+2) Use "dd" to delete the first line, then repeat with "."
+3) Starting at the second line, use "G>" to indent, move down to the next line, then repeat with "."  
